@@ -8,10 +8,10 @@ En **Antojo** valoramos tu privacidad. Esta política describe qué información
 
 ## 1. Quiénes somos
 
-**Antojo** es una aplicación móvil operada por:
+**Antojo** es una aplicación móvil de cocina con inteligencia artificial.
 
-- **Responsable:** Guillermo Rojas Medalla
-- **Contacto:** guillermo.rojas.medalla@gmail.com
+- **Responsable:** Antojo
+- **Contacto:** hola.antojo@gmail.com
 - **País de operación:** Chile
 
 ---
@@ -124,7 +124,7 @@ Si actualizamos esta política, te avisaremos dentro de la app antes de que entr
 
 ¿Dudas, reclamos, o ejercer tus derechos?
 
-📧 **guillermo.rojas.medalla@gmail.com**
+📧 **hola.antojo@gmail.com**
 
 Respondemos en un máximo de 7 días hábiles.
 

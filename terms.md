@@ -10,8 +10,8 @@ Al usar **Antojo**, aceptas estos términos. Por favor léelos.
 
 Antojo es una aplicación móvil que usa **inteligencia artificial** para identificar ingredientes en fotos que envías y generar recetas sugeridas.
 
-**Operada por:** Guillermo Rojas Medalla
-**Contacto:** guillermo.rojas.medalla@gmail.com
+**Operada por:** Antojo
+**Contacto:** hola.antojo@gmail.com
 **País de origen:** Chile
 
 ---
@@ -133,7 +133,7 @@ Cualquier disputa se resolverá primero por **diálogo directo** (escríbenos). 
 
 ## 12. Contacto
 
-📧 **guillermo.rojas.medalla@gmail.com**
+📧 **hola.antojo@gmail.com**
 
 ¿Dudas, problemas, propuestas? Escríbenos. Respondemos en máximo 7 días hábiles.
 
