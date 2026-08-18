@@ -1,17 +1,17 @@
-# Política de Privacidad — Antojo
+# Política de Privacidad — Antójate
 
-**Última actualización:** 23 de mayo de 2026
+**Última actualización:** 17 de agosto de 2026
 
-En **Antojo** valoramos tu privacidad. Esta política describe qué información recopilamos, cómo la usamos y cuáles son tus derechos.
+En **Antójate** valoramos tu privacidad. Esta política describe qué información recopilamos, cómo la usamos y cuáles son tus derechos.
 
 ---
 
 ## 1. Quiénes somos
 
-**Antojo** es una aplicación móvil de cocina con inteligencia artificial.
+**Antójate** es una aplicación móvil de cocina con inteligencia artificial.
 
-- **Responsable:** Antojo
-- **Contacto:** hola.antojo@gmail.com
+- **Responsable:** Antójate
+- **Contacto:** hola.antojate@gmail.com
 - **País de operación:** Chile
 
 ---
@@ -25,22 +25,31 @@ En **Antojo** valoramos tu privacidad. Esta política describe qué información
 - ID único de usuario (generado automáticamente por Supabase)
 
 ### 2.2 Contenido que generas
-- Fotos que tomas para escanear ingredientes
-- Recetas generadas a partir de tus fotos
+- Fotos que tomas para escanear ingredientes (se procesan para generar tus recetas; no las almacenamos como imagen)
+- Recetas generadas a partir de tus fotos o de lo que escribes
 - Ingredientes que guardas en tu Despensa
-- Items en tu Lista de Compras
+- Items en tu Lista de Compras y tu Planificador
+- Recetas que marcas como favoritas o cocinadas
 - Preferencias dietéticas (omnívoro, vegetariano, vegano, sin gluten)
 - Personas por receta y tiempo disponible
 
 ### 2.3 Datos técnicos
 - Tipo de dispositivo y versión de sistema operativo
 - Idioma del dispositivo
-- Datos básicos de uso (cuántos scans realizas, qué pantallas visitas)
+- Datos básicos de uso (cuántos antojos creas, qué pantallas visitas)
 - Errores técnicos cuando ocurren
+- Token del dispositivo para notificaciones (solo si activas los recordatorios)
 
-### 2.4 Datos que NO recopilamos
-- ❌ Ubicación GPS
+### 2.4 Ubicación aproximada (opcional)
+Si TÚ lo autorizas, la app usa tu ubicación aproximada para sugerirte recetas
+según el clima de tu zona. Esta consulta sale **directo desde tu teléfono** al
+servicio meteorológico (Open-Meteo): tus coordenadas **nunca se envían ni se
+almacenan en nuestros servidores**. Si no das el permiso, la app funciona
+igual, sin sugerencias por clima.
+
+### 2.5 Datos que NO recopilamos
 - ❌ Lista de contactos
+- ❌ Micrófono ni audio
 - ❌ Mensajes ni notificaciones de otras apps
 - ❌ Datos de salud
 - ❌ Información bancaria (los pagos los procesa Google Play, no nosotros)
@@ -52,9 +61,10 @@ En **Antojo** valoramos tu privacidad. Esta política describe qué información
 | Propósito | Datos usados |
 |---|---|
 | Identificarte y autenticarte | Email, ID de usuario |
-| Generar recetas con IA | Fotos, preferencias, despensa |
-| Mostrarte tu historial | Scans guardados |
+| Generar recetas con IA | Fotos, texto que escribes, preferencias, despensa |
+| Mostrarte tu historial | Antojos guardados |
 | Personalizar tu experiencia | Preferencias |
+| Enviarte recordatorios de comida (si los activas) | Token de notificaciones |
 | Mejorar la app | Datos técnicos anónimos |
 | Procesar tu suscripción Premium | Email + verificación con Google Play |
 
@@ -66,10 +76,14 @@ En **Antojo** valoramos tu privacidad. Esta política describe qué información
 
 Para que la app funcione, compartimos información estrictamente necesaria con estos proveedores:
 
-- **Anthropic (Claude AI)**: enviamos tus fotos para que la IA identifique los ingredientes y genere recetas. Anthropic no usa estos datos para entrenar sus modelos (según su política de uso de API).
+- **Anthropic (Claude AI)**: enviamos tus fotos y el texto de tu antojo para que la IA identifique ingredientes y genere recetas. Anthropic no usa estos datos para entrenar sus modelos (según su política de uso de API).
+- **OpenAI**: genera fotografías ilustrativas de los platos. Solo recibe el **nombre del plato** (ej: "charquicán") — jamás tus datos personales ni tus fotos.
 - **Supabase**: aloja nuestra base de datos. Tus datos están encriptados.
 - **Railway**: hosting del servidor backend.
-- **Unsplash**: para obtener imágenes de las recetas (no recibe datos personales).
+- **RevenueCat**: gestiona el estado de las suscripciones Premium (recibe un identificador de usuario y el comprobante de compra de Google Play; nunca tu tarjeta).
+- **Unsplash**: para obtener imágenes de recetas (no recibe datos personales).
+- **Open-Meteo**: pronóstico del clima (recibe coordenadas aproximadas directo desde tu teléfono, solo si autorizaste la ubicación).
+- **Expo**: entrega de notificaciones push (recibe el token del dispositivo).
 - **Google Play Billing**: procesa pagos de Premium (no tenemos acceso a tu tarjeta).
 
 ---
@@ -89,7 +103,7 @@ Tienes derecho a:
 - ✅ **Acceder** a tus datos (visibles en la app)
 - ✅ **Modificar** tus preferencias y datos en cualquier momento
 - ✅ **Exportar** tus datos (solicítalo por email)
-- ✅ **Borrar** tu cuenta y todos tus datos desde **Mi cuenta → Borrar cuenta**
+- ✅ **Borrar** tu cuenta y todos tus datos desde **Mi cuenta → Borrar cuenta** (también puedes solicitarlo escribiendo a hola.antojate@gmail.com)
 - ✅ **Oponerte** a usos específicos (escríbenos)
 - ✅ **Presentar quejas** ante autoridades de protección de datos de Chile (Servicio Nacional del Consumidor)
 
@@ -110,7 +124,7 @@ Aunque tomamos medidas razonables, ningún sistema es 100% seguro. Si detectamos
 
 ## 8. Menores de edad
 
-Antojo está pensado para mayores de 13 años. Si descubrimos que un menor de 13 años creó cuenta sin autorización de sus padres, eliminaremos la cuenta de inmediato.
+Antójate está pensado para mayores de 13 años. Si descubrimos que un menor de 13 años creó cuenta sin autorización de sus padres, eliminaremos la cuenta de inmediato.
 
 ---
 
@@ -124,10 +138,10 @@ Si actualizamos esta política, te avisaremos dentro de la app antes de que entr
 
 ¿Dudas, reclamos, o ejercer tus derechos?
 
-📧 **hola.antojo@gmail.com**
+📧 **hola.antojate@gmail.com**
 
 Respondemos en un máximo de 7 días hábiles.
 
 ---
 
-*Antojo. Cocina con lo que hay.*
+*Antójate. Cocina con lo que hay.*
