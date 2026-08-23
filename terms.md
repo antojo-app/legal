@@ -1,6 +1,6 @@
 # Términos y Condiciones — Antójate
 
-**Última actualización:** 17 de agosto de 2026
+**Última actualización:** 23 de agosto de 2026
 
 Al usar **Antójate**, aceptas estos términos. Por favor léelos.
 
@@ -97,6 +97,23 @@ vigente es siempre la que se muestra dentro de la app al momento de usarla.
 - **Las fotos que subes** son tuyas. No las usamos para nada más allá de generar tu receta.
 - **El código de la app** es propietario y no puedes copiarlo, modificarlo o redistribuirlo.
 
+### Reclamos por derechos de autor y retiro de contenido
+
+Trabajamos para que todas las imágenes de la app sean generadas por IA o
+provengan de bancos de imágenes con licencia. Si aun así crees que algún
+contenido de Antójate infringe tus derechos de autor, escríbenos a
+**hola.antojate@gmail.com** indicando:
+
+1. Qué obra es tuya y cómo acreditas ser el titular (o su representante)
+2. Dónde aparece dentro de la app (pantalla, nombre de la receta, idealmente un pantallazo)
+3. Tus datos de contacto
+4. Una declaración de buena fe de que el uso no está autorizado por ti ni por la ley
+
+Revisamos todo reclamo y, si corresponde, **retiramos el contenido dentro de
+7 días hábiles**. Las fotos que sube cada usuario son responsabilidad de
+quien las sube (ver sección 3); las infracciones reiteradas son causal de
+suspensión de la cuenta (ver sección 8).
+
 ---
 
 ## 8. Suspensión de cuentas
@@ -118,21 +135,60 @@ Podemos suspender o cerrar tu cuenta si:
 
 ---
 
-## 10. Cambios en estos términos
+## 10. Limitación de responsabilidad
+
+Antójate se ofrece **"tal cual"**: una herramienta de cocina de uso
+personal, gratuita o de bajo costo. Esta sección pone ese contexto en
+reglas claras:
+
+- **Cobros erróneos**: si detectas un cobro incorrecto de tu suscripción,
+  escríbenos. Lo revisamos junto a Google Play y, si el error es efectivo,
+  tienes derecho a la **devolución de lo cobrado en exceso**. Ese reembolso
+  es el remedio que corresponde a un error de cobro.
+- **No respondemos por daños indirectos**: lucro cesante, pérdida de
+  oportunidades, o perjuicios derivados del mal uso de la app o de las
+  recetas (ver sección 5).
+- **Tope de responsabilidad**: nuestra responsabilidad total frente a ti,
+  por el conjunto de reclamos relacionados con Antójate, se limita al
+  **monto que nos hayas pagado en los 12 meses anteriores** al hecho que
+  origina el reclamo. Si usas el plan gratuito, se limita a restablecerte
+  el servicio.
+
+**Nada de lo anterior limita los derechos que la Ley 19.496 (protección al
+consumidor) te reconoce como irrenunciables**, ni nuestra responsabilidad
+por dolo o culpa grave.
+
+---
+
+## 11. Cambios en estos términos
 
 Si actualizamos estos términos, te avisaremos dentro de la app antes de que entren en vigor. Si no estás de acuerdo, puedes borrar tu cuenta.
 
 ---
 
-## 11. Ley aplicable
+## 12. Ley aplicable y resolución de disputas
 
 Estos términos se rigen por la **legislación de Chile**.
 
-Cualquier disputa se resolverá primero por **diálogo directo** (escríbenos). Si no llegamos a acuerdo, los tribunales de Santiago de Chile tendrán jurisdicción.
+Si tienes un problema con Antójate, este es el camino, en orden:
+
+1. **Diálogo directo**: escríbenos a hola.antojate@gmail.com. Respondemos
+   en máximo 7 días hábiles y la gran mayoría de los problemas se resuelve acá.
+2. **Mediación**: si en 30 días no llegamos a acuerdo, cualquiera de las
+   partes puede proponer una mediación voluntaria (por ejemplo, ante el
+   SERNAC si actúas como consumidor).
+3. **Arbitraje o tribunales**: si la mediación tampoco lo resuelve, la
+   disputa podrá someterse a **arbitraje en Santiago de Chile** si ambas
+   partes lo acuerdan por escrito; en caso contrario, será competencia de
+   los **tribunales ordinarios de Santiago de Chile**.
+
+Si actúas como consumidor, conservas siempre las instancias que la Ley
+19.496 pone a tu disposición (incluido el SERNAC y el juzgado de policía
+local que corresponda).
 
 ---
 
-## 12. Contacto
+## 13. Contacto
 
 📧 **hola.antojate@gmail.com**
 

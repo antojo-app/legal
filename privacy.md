@@ -1,6 +1,6 @@
 # Política de Privacidad — Antójate
 
-**Última actualización:** 17 de agosto de 2026
+**Última actualización:** 23 de agosto de 2026
 
 En **Antójate** valoramos tu privacidad. Esta política describe qué información recopilamos, cómo la usamos y cuáles son tus derechos.
 
@@ -85,6 +85,8 @@ Para que la app funcione, compartimos información estrictamente necesaria con e
 - **Open-Meteo**: pronóstico del clima (recibe coordenadas aproximadas directo desde tu teléfono, solo si autorizaste la ubicación).
 - **Expo**: entrega de notificaciones push (recibe el token del dispositivo).
 - **Google Play Billing**: procesa pagos de Premium (no tenemos acceso a tu tarjeta).
+- **Sentry**: monitoreo de errores. Cuando algo falla, recibe el detalle técnico del error y datos del dispositivo (modelo, versión de la app) — nunca tus fotos ni el contenido de tus recetas.
+- **PostHog**: analítica de uso (qué pantallas se visitan, cuántos antojos se crean). Recibe tu identificador de usuario y email para asociar tu actividad a tu cuenta. No vende ni comparte estos datos.
 
 ---
 
