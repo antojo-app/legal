@@ -105,7 +105,7 @@ Tienes derecho a:
 - ✅ **Acceder** a tus datos (visibles en la app)
 - ✅ **Modificar** tus preferencias y datos en cualquier momento
 - ✅ **Exportar** tus datos (solicítalo por email)
-- ✅ **Borrar** tu cuenta y todos tus datos desde **Mi cuenta → Borrar cuenta** (también puedes solicitarlo escribiendo a hola.antojate@gmail.com)
+- ✅ **Borrar** tu cuenta y todos tus datos desde **Mi cuenta → Borrar cuenta** (también puedes solicitarlo escribiendo a hola.antojate@gmail.com). Guía paso a paso: [Eliminar tu cuenta](https://antojo-app.github.io/legal/delete-account.html)
 - ✅ **Oponerte** a usos específicos (escríbenos)
 - ✅ **Presentar quejas** ante autoridades de protección de datos de Chile (Servicio Nacional del Consumidor)
 

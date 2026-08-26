@@ -45,13 +45,12 @@ Antójate es una aplicación móvil que usa **inteligencia artificial** para ide
 ## 4. Plan gratuito y Premium
 
 ### Gratuito
-- **1 antojo IA al día** (puedes usarlo con la cámara, la galería o escribiendo)
-- **3 recetas del catálogo al día** para abrir con el paso a paso
+- **1 antojo IA al día** (con la cámara o la galería)
+- **Catálogo de recetas completo y gratis**: mirar, abrir y cocinar las recetas del feed, con su paso a paso, sin límite diario
 - Historial, favoritos y listas
 
 ### Premium (desde $2.990 CLP / mes)
 - **Antojos IA sin límites**
-- **Recetas del catálogo sin tope diario**
 - **Planificador semanal** con recordatorios
 - Funciones exclusivas adicionales que se indican dentro de la app
 
